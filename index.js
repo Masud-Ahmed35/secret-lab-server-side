@@ -5,8 +5,14 @@ const port = process.env.PORT || 7001;
 
 app.use(cors());
 
+const courses = require('./dataSet/courses.json')
+
 app.get('/', (req, res) => {
-    res.send('Helloooo...... Server');
+    res.send('Welcome To My Server....');
+})
+
+app.get('/courses', (req, res) => {
+    res.send(courses);
 })
 
 app.listen(port, () => {
