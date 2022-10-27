@@ -7,6 +7,7 @@
         "ratings": 4.5,
         "comments": "5.3M",
         "badge": "Excellent",
+        "price": 9,
         "description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries"
     },
     {
@@ -17,6 +18,7 @@
         "ratings": 4,
         "comments": "6.5M",
         "badge": "New",
+        "price": 12,
         "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
     },
     {
@@ -27,6 +29,7 @@
         "ratings": 4.5,
         "comments": "6.7M",
         "badge": "Updated",
+        "price": 13,
         "description": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group."
     },
     {
@@ -37,6 +40,7 @@
         "ratings": 4.5,
         "comments": "4.8M",
         "badge": "New",
+        "price": 7,
         "description": "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or C with Classes"
     },
     {
@@ -47,6 +51,7 @@
         "ratings": 3.5,
         "comments": "9.4M",
         "badge": "Excellent",
+        "price": 19,
         "description": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types."
     },
     {
@@ -57,6 +62,7 @@
         "ratings": 3,
         "comments": "4.6M",
         "badge": "Updated",
+        "price": 25,
         "description": "Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages. Perl refers to Perl 5, but from 2000 to 2019 it also referred to its redesigned sister language, Perl 6, before the latter's name was officially changed to Raku in October 2019."
     },
     {
@@ -67,6 +73,7 @@
         "ratings": 2.5,
         "comments": "8.2M",
         "badge": "New",
+        "price": 5,
         "description": ".NET is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework. The project is primarily developed by Microsoft employees by way of the .NET Foundation, and released under the MIT License."
     },
     {
@@ -77,6 +84,7 @@
         "ratings": 5,
         "comments": "9.1M",
         "badge": "Updated",
+        "price": 15,
         "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
     },
     {
@@ -87,6 +95,7 @@
         "ratings": 4,
         "comments": "1.8M",
         "badge": "Updated",
+        "price": 10,
         "description": "C# is a general-purpose, high-level multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines."
     },
     {
@@ -97,6 +106,7 @@
         "ratings": 3.5,
         "comments": "5.6M",
         "badge": "New",
+        "price": 23,
         "description": "Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java."
     }
 ]
