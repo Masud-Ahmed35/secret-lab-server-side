@@ -3,8 +3,7 @@
 * Generate a json file
 * And hosted it on localhost
 * Then require this json file.
-* And my server is running on port [7001](7001)
+##Server Link: https://assignment-10-server-side-eta.vercel.app/
 ## Credit & Resources
 * [Google](https://www.google.com/)
 * [mockaroo](https://www.mockaroo.com/)
-## Hosted Link: 
